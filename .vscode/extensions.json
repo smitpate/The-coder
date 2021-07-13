@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "ecmel.vscode-html-css",
+        "abusaidm.html-snippets",
+        "jeremyrajan.browsersync",
+        "auchenberg.vscode-browser-preview",
+        "coderfee.open-html-in-browser",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "iagolaguna.vscodefy",
+        "tomoki1207.pdf"
+    ]
+}
