@@ -1,0 +1,19 @@
+# author:SMIT PATEL
+a = 1
+b = 1
+print(a + b)  # ADDITION
+a = 10
+b = 5
+print(a - b)
+a = 6
+b = 2
+print(a / b)
+a = 2
+b = 5
+print(a * b)
+a = 10
+b = 10
+print(a ** b)
+a = 50
+b = 10
+print(a // b)
